@@ -1,4 +1,4 @@
-# Centauri-FFNN
+# Tensora-FFNN
 
 ## Full C++ Feed-Forward Neural Network Implementation (No Libraries)
 
