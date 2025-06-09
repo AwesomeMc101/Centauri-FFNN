@@ -1,6 +1,6 @@
 /*
 * 
-** Source.cpp (FFNN Proto/Centauri-FFNN)
+** Source.cpp (FFNN Proto/Tensora-FFNN)
 ** Registered under MIT
 *
 ** Written in whole by AwesomeMc101 / C.D.H
